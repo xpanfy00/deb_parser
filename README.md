@@ -8,4 +8,4 @@ support following optional arguments:
 "-l | --changelog" parse changelog and print description for this specific version
 
 Example input:
-python3 package_info.py -l -p ~/Downloads/curl_7.58.0.deb
+python3 package_info.py -l -p /Downloads/curl_7.58.0.deb
